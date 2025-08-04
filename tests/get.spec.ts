@@ -26,4 +26,5 @@ test.describe('GET Request Tests', () => {
     expect(user.email).toBeDefined();
     console.log(user.id);
   });
+ 
 });
